@@ -42,14 +42,14 @@ header {
 width: 940px;
 height: 200px;
 margin: 0 auto;
-background: #fff url(images/headerimg.jpg) no-repeat left top;
+background: #fff url(http://img.yalog.info/images/headerimg.jpg) no-repeat left top;
 }
 
 #main {
 width: 940px;
 margin: 0 auto;
 padding-top: 30px;
-background: #FFF url(images/colbg.png) repeat-y;
+background: #FFF url(http://img.yalog.info/images/colbg.png) repeat-y;
 overflow: hidden;
 }
 
